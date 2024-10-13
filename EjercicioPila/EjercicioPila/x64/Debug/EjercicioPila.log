@@ -1,0 +1,49 @@
+﻿  EjercicioPila.cpp
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(22,2): error C2371: 'Pila': nueva definición; tipos básicos distintos
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(16,2):
+  vea la declaración de 'Pila'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(37,10): error C2601: 'iniciarPila': las definiciones de funciones locales no son válidas
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(32,1):
+  esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(41,29): error C2556: 'bool pilaVacia(Pila *)': la función sobrecargada solo se diferencia de 'void pilaVacia(Pila *)' por el tipo de valor devuelto
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(28,6):
+  vea la declaración de 'pilaVacia'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(41,10): error C2371: 'pilaVacia': nueva definición; tipos básicos distintos
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(28,6):
+  vea la declaración de 'pilaVacia'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(41,10): error C2601: 'pilaVacia': las definiciones de funciones locales no son válidas
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(32,1):
+  esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(45,29): error C2556: 'bool pilaLlena(Pila *)': la función sobrecargada solo se diferencia de 'void pilaLlena(Pila *)' por el tipo de valor devuelto
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(27,6):
+  vea la declaración de 'pilaLlena'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(45,10): error C2371: 'pilaLlena': nueva definición; tipos básicos distintos
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(27,6):
+  vea la declaración de 'pilaLlena'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(45,10): error C2601: 'pilaLlena': las definiciones de funciones locales no son válidas
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(32,1):
+  esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(49,10): error C2182: 'agregarElemento': este uso de 'void' no es válido
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(49,26): error C2065: 'pila': identificador no declarado
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(49,35): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(38,12): error C2039: "tope": no es un miembro de "Pila"
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(9,16):
+  vea la declaración de 'Pila'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(42,19): error C2039: "tope": no es un miembro de "Pila"
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(9,16):
+  vea la declaración de 'Pila'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(46,19): error C2039: "tope": no es un miembro de "Pila"
+  C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(9,16):
+  vea la declaración de 'Pila'
+  
+C:\Users\HERNANDEZ\Desktop\ues\2024\CICLO II\ESD115\4 - GUIAS\EjercicioPila\EjercicioPila\EjercicioPila.cpp(46,28): error C2065: 'lomgitud': identificador no declarado
